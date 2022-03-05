@@ -3844,6 +3844,204 @@
         "name": "assets/Foubreak/anime/P4_0005.png",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Foubreak/anime/P3_0001.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Foubreak\\anime\\P3_0001.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Foubreak/anime/P3_0002.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Foubreak\\anime\\P3_0002.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Foubreak/anime/P3_0003.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Foubreak\\anime\\P3_0003.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Foubreak/anime/P3_0004.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Foubreak\\anime\\P3_0004.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Foubreak/anime/P3_0005.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Foubreak\\anime\\P3_0005.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Foubreak/anime/P3_0006.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Foubreak\\anime\\P3_0006.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Foubreak/anime/P3_0007.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Foubreak\\anime\\P3_0007.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Foubreak/anime/P3_0008.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Foubreak\\anime\\P3_0008.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Foubreak/anime/P3_0009.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Foubreak\\anime\\P3_0009.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Foubreak/anime/P3_0010.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Foubreak\\anime\\P3_0010.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Foubreak/anime/P3_0011.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Foubreak\\anime\\P3_0011.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Foubreak/anime/P3_0012.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Foubreak\\anime\\P3_0012.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Foubreak/anime/P3_0013.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Foubreak\\anime\\P3_0013.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Foubreak/anime/P3_0014.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Foubreak\\anime\\P3_0014.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Foubreak/anime/P3_0015.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Foubreak\\anime\\P3_0015.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Foubreak/anime/P3_0016.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Foubreak\\anime\\P3_0016.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Foubreak/anime/P4_0001.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Foubreak\\anime\\P4_0001.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Foubreak/anime/P4_0002.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Foubreak\\anime\\P4_0002.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Foubreak/anime/P4_0003.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Foubreak\\anime\\P4_0003.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Foubreak/anime/P4_0004.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Foubreak\\anime\\P4_0004.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Foubreak/anime/P4_0005.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Foubreak\\anime\\P4_0005.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Foubreak/anime/P4_0006.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Foubreak\\anime\\P4_0006.png",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -3896,7 +4094,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.1,
         "snap": true,
-        "zoomFactor": 0.38093334655761807,
+        "zoomFactor": 0.2809333465576181,
         "windowMask": false
       },
       "objectsGroups": [
@@ -6329,6 +6527,60 @@
                     "value": "SourisSurObjet"
                   },
                   "parameters": [
+                    "IconsFoubreak",
+                    "",
+                    "",
+                    ""
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "MouseButtonReleased"
+                  },
+                  "parameters": [
+                    "",
+                    "Left"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": [],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "Scene"
+                  },
+                  "parameters": [
+                    "",
+                    "\"foubreak\"",
+                    "no"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            },
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "SourisSurObjet"
+                  },
+                  "parameters": [
                     "icons",
                     "",
                     "",
@@ -6521,7 +6773,7 @@
           "colorR": 74,
           "creationTime": 0,
           "disabled": false,
-          "folded": false,
+          "folded": true,
           "name": "Menu character",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -6705,7 +6957,7 @@
           "colorR": 74,
           "creationTime": 0,
           "disabled": false,
-          "folded": false,
+          "folded": true,
           "name": "Buttons (Watch out for spaghetti code)",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -7311,7 +7563,7 @@
           "colorR": 74,
           "creationTime": 0,
           "disabled": false,
-          "folded": false,
+          "folded": true,
           "name": "Checkboxes",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -15834,7 +16086,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.5657333282470711,
+        "zoomFactor": 0.39073332824707113,
         "windowMask": false
       },
       "objectsGroups": [
@@ -16636,12 +16888,12 @@
               ]
             },
             {
-              "name": "left",
+              "name": "1",
               "useMultipleDirections": false,
               "directions": [
                 {
                   "looping": false,
-                  "timeBetweenFrames": 0.04500000178813934,
+                  "timeBetweenFrames": 0.04170000180602074,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
@@ -16835,12 +17087,12 @@
               ]
             },
             {
-              "name": "hat",
+              "name": "2",
               "useMultipleDirections": false,
               "directions": [
                 {
                   "looping": false,
-                  "timeBetweenFrames": 0.08,
+                  "timeBetweenFrames": 0.04170000180602074,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
@@ -16949,7 +17201,7 @@
               ]
             },
             {
-              "name": "right",
+              "name": "3",
               "useMultipleDirections": false,
               "directions": [
                 {
@@ -16958,7 +17210,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "assets\\Tuctom\\anime\\tuctom_1-0.png",
+                      "image": "assets\\Foubreak\\anime\\P3_0001.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -16975,7 +17227,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "assets\\Tuctom\\anime\\tuctom_1-1.png",
+                      "image": "assets\\Foubreak\\anime\\P3_0002.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -16992,7 +17244,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "assets\\Tuctom\\anime\\tuctom_1-2.png",
+                      "image": "assets\\Foubreak\\anime\\P3_0003.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -17009,7 +17261,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "assets\\Tuctom\\anime\\tuctom_1-3.png",
+                      "image": "assets\\Foubreak\\anime\\P3_0004.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -17026,7 +17278,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "assets\\Tuctom\\anime\\tuctom_1-4.png",
+                      "image": "assets\\Foubreak\\anime\\P3_0005.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -17043,7 +17295,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "assets\\Tuctom\\anime\\tuctom_1-5.png",
+                      "image": "assets\\Foubreak\\anime\\P3_0006.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -17060,7 +17312,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "assets\\Tuctom\\anime\\tuctom_1-6.png",
+                      "image": "assets\\Foubreak\\anime\\P3_0007.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -17077,7 +17329,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "assets\\Tuctom\\anime\\tuctom_1-7.png",
+                      "image": "assets\\Foubreak\\anime\\P3_0008.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -17094,7 +17346,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "assets\\Tuctom\\anime\\tuctom_1-8.png",
+                      "image": "assets\\Foubreak\\anime\\P3_0009.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -17111,7 +17363,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "assets\\Tuctom\\anime\\tuctom_1-9.png",
+                      "image": "assets\\Foubreak\\anime\\P3_0010.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -17128,7 +17380,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "assets\\Tuctom\\anime\\tuctom_1-10.png",
+                      "image": "assets\\Foubreak\\anime\\P3_0011.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -17145,7 +17397,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "assets\\Tuctom\\anime\\tuctom_1-11.png",
+                      "image": "assets\\Foubreak\\anime\\P3_0012.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -17162,7 +17414,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "assets\\Tuctom\\anime\\tuctom_1-12.png",
+                      "image": "assets\\Foubreak\\anime\\P3_0013.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -17179,7 +17431,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "assets\\Tuctom\\anime\\tuctom_1-13.png",
+                      "image": "assets\\Foubreak\\anime\\P3_0014.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -17196,7 +17448,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "assets\\Tuctom\\anime\\tuctom_1-14.png",
+                      "image": "assets\\Foubreak\\anime\\P3_0015.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -17213,228 +17465,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "assets\\Tuctom\\anime\\tuctom_1-15.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "assets\\Tuctom\\anime\\tuctom_1-16.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "assets\\Tuctom\\anime\\tuctom_1-17.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "assets\\Tuctom\\anime\\tuctom_1-18.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "assets\\Tuctom\\anime\\tuctom_1-19.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "assets\\Tuctom\\anime\\tuctom_1-20.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "assets\\Tuctom\\anime\\tuctom_1-21.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "assets\\Tuctom\\anime\\tuctom_1-22.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "assets\\Tuctom\\anime\\tuctom_1-23.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "assets\\Tuctom\\anime\\tuctom_1-24.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "assets\\Tuctom\\anime\\tuctom_1-25.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "assets\\Tuctom\\anime\\tuctom_1-26.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "assets\\Tuctom\\anime\\tuctom_1-27.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "assets\\Tuctom\\anime\\tuctom_1-28.png",
+                      "image": "assets\\Foubreak\\anime\\P3_0016.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -17454,7 +17485,7 @@
               ]
             },
             {
-              "name": "tom",
+              "name": "4",
               "useMultipleDirections": false,
               "directions": [
                 {
@@ -17463,7 +17494,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "assets\\Tuctom\\anime\\tuctom_4-0.png",
+                      "image": "assets\\Foubreak\\anime\\P4_0001.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -17480,7 +17511,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "assets\\Tuctom\\anime\\tuctom_4-1.png",
+                      "image": "assets\\Foubreak\\anime\\P4_0002.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -17497,7 +17528,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "assets\\Tuctom\\anime\\tuctom_4-2.png",
+                      "image": "assets\\Foubreak\\anime\\P4_0003.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -17514,7 +17545,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "assets\\Tuctom\\anime\\tuctom_4-3.png",
+                      "image": "assets\\Foubreak\\anime\\P4_0004.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -17531,7 +17562,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "assets\\Tuctom\\anime\\tuctom_4-4.png",
+                      "image": "assets\\Foubreak\\anime\\P4_0005.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -17548,398 +17579,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "assets\\Tuctom\\anime\\tuctom_4-5.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "assets\\Tuctom\\anime\\tuctom_4-6.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "assets\\Tuctom\\anime\\tuctom_4-7.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "assets\\Tuctom\\anime\\tuctom_4-8.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "assets\\Tuctom\\anime\\tuctom_4-9.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "assets\\Tuctom\\anime\\tuctom_4-10.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "assets\\Tuctom\\anime\\tuctom_4-11.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "assets\\Tuctom\\anime\\tuctom_4-12.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "assets\\Tuctom\\anime\\tuctom_4-13.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "assets\\Tuctom\\anime\\tuctom_4-14.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "assets\\Tuctom\\anime\\tuctom_4-15.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "assets\\Tuctom\\anime\\tuctom_4-16.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "assets\\Tuctom\\anime\\tuctom_4-17.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "assets\\Tuctom\\anime\\tuctom_4-18.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "assets\\Tuctom\\anime\\tuctom_4-19.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "assets\\Tuctom\\anime\\tuctom_4-20.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "assets\\Tuctom\\anime\\tuctom_4-21.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "assets\\Tuctom\\anime\\tuctom_4-22.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "assets\\Tuctom\\anime\\tuctom_4-23.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "assets\\Tuctom\\anime\\tuctom_4-24.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "assets\\Tuctom\\anime\\tuctom_4-25.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "assets\\Tuctom\\anime\\tuctom_4-26.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "assets\\Tuctom\\anime\\tuctom_4-27.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "assets\\Tuctom\\anime\\tuctom_4-28.png",
+                      "image": "assets\\Foubreak\\anime\\P4_0006.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -18627,7 +18267,7 @@
                   },
                   "parameters": [
                     "polo",
-                    "\"hat\""
+                    "\"1\""
                   ],
                   "subInstructions": []
                 },
@@ -18730,7 +18370,7 @@
                   },
                   "parameters": [
                     "polo",
-                    "\"right\""
+                    "\"2\""
                   ],
                   "subInstructions": []
                 },
@@ -18821,7 +18461,7 @@
                   },
                   "parameters": [
                     "polo",
-                    "\"left\""
+                    "\"3\""
                   ],
                   "subInstructions": []
                 },
@@ -18912,7 +18552,7 @@
                   },
                   "parameters": [
                     "polo",
-                    "\"tom\""
+                    "\"4\""
                   ],
                   "subInstructions": []
                 },
@@ -19033,7 +18673,7 @@
                       },
                       "parameters": [
                         "polo",
-                        "\"right\""
+                        "\"1\""
                       ],
                       "subInstructions": []
                     },
@@ -19119,7 +18759,7 @@
                       },
                       "parameters": [
                         "polo",
-                        "\"hat\""
+                        "\"2\""
                       ],
                       "subInstructions": []
                     },
@@ -19217,7 +18857,7 @@
                       },
                       "parameters": [
                         "polo",
-                        "\"tom\""
+                        "\"3\""
                       ],
                       "subInstructions": []
                     },
@@ -19339,7 +18979,7 @@
                       },
                       "parameters": [
                         "polo",
-                        "\"left\""
+                        "\"4\""
                       ],
                       "subInstructions": []
                     },
